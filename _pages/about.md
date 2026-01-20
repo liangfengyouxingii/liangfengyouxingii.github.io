@@ -76,10 +76,37 @@ Representative first-author papers (* denotes me*):
 </div>
 </div>
 
-- **Spatial downscaling of land surface temperature over heterogeneous regions using random forest regression considering spatial features.** *Remote Sensing*, 2021.  ![RS_SRF](images/RS_SRF.png)
-- **Retrieving land surface temperature from Chinese FY-3D MERSI-2 data using an operational split window algorithm.** *IEEE J-STARS*, 2021.  ![JSTAR_LST](images/JSTAR_LST.png)
-- **Destriping and Evaluating FY-3D MERSI-2 Data with the Moment Matching Method Based on Synchronous Reference Image.** *Journal of Applied Remote Sensing*, 2020.  ![Destrip_JARS](images/Destrip_JARS.png)
-- In review/ready: real-time unsupervised crop harvest detection (IJAEOG, under review).
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RS 2021</div><img src='images/RS_SRF.png' alt="RS SRF" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Spatial downscaling of land surface temperature over heterogeneous regions using random forest regression considering spatial features.**  
+*Remote Sensing*, 2021.
+
+- LST downscaling with spatial-feature-aware RF.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE J-STARS 2021</div><img src='images/JSTAR_LST.png' alt="FY-3D LST" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Retrieving land surface temperature from Chinese FY-3D MERSI-2 data using an operational split window algorithm.**  
+*IEEE J-STARS*, 2021.
+
+- Operational split-window LST retrieval for FY-3D MERSI-2.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JARS 2020</div><img src='images/Destrip_JARS.png' alt="Destriping" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Destriping and Evaluating FY-3D MERSI-2 Data with the Moment Matching Method Based on Synchronous Reference Image.**  
+*Journal of Applied Remote Sensing*, 2020.
+
+- Destriping via moment matching with synchronous reference.
+</div>
+</div>
+
+In review/ready: real-time unsupervised crop harvest detection (IJAEOG, under review).
 
 # 🧪 Projects
 - NSFC Major Project “Remote sensing detection and instant diagnosis of surface anomalies” (2022.9–present): on-orbit instant change detection algorithms; results correspond to papers [2][3][9].
