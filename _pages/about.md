@@ -85,17 +85,17 @@ Kai Tang, Jin Chen<sup>†</sup><br>
 </div>
 </div>
 
+**Spatial downscaling of land surface temperature over heterogeneous regions using random forest regression considering spatial features.**  
+*Remote Sensing*, 2021.  
+**Kai Tang**, Hongchun Zhu<sup>†</sup>, Ping Ni
 
-**Spatial downscaling of land surface temperature over heterogeneous regions using random forest regression considering spatial features.**
-*Remote Sensing*, 2021.<br>
-**Kai Tang**, Hongchun Zhu<sup>†</sup>, Ping Ni<br>
 **Retrieving land surface temperature from Chinese FY-3D MERSI-2 data using an operational split window algorithm.**  
+*IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2021.  
+**Kai Tang**, Hongchun Zhu<sup>†</sup>, Ping Ni, Ruibo Li, Cheng Fan
 
-*IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2021.
-**Kai Tang**, Hongchun Zhu<sup>†</sup>, Ping Ni, Ruibo Li, Cheng Fan<br>
 **Destriping and Evaluating FY-3D MERSI-2 Data with the Moment Matching Method Based on Synchronous Reference Image.**  
-*Journal of Applied Remote Sensing*, 2020.<br>
-**Kai Tang**, Hongchun Zhu<sup>†</sup>, Yu Cheng, Lin Zhang<br>
+*Journal of Applied Remote Sensing*, 2020.  
+**Kai Tang**, Hongchun Zhu<sup>†</sup>, Yu Cheng, Lin Zhang
 
 # 📖 Educations
 - 2022.09–2026.06 (Ph.D.): Beijing Normal University, Cartography & GIS.
