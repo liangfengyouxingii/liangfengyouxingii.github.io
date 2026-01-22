@@ -78,7 +78,7 @@ Kai Tang, Jin Chen<sup>†</sup><br>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS P&RS 2024</div><img src='images/ISPRS P&RS_ClearSCD.png' alt="ClearSCD" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**The ClearSCD model: Comprehensively leveraging semantics and change relationships for semantic change detection in high spatial resolution remote sensing imagery.**<br>  
+**The ClearSCD model: Comprehensively leveraging semantics and change relationships for semantic change detection in high spatial resolution remote sensing imagery.**<br>
 *ISPRS Journal of Photogrammetry and Remote Sensing*, 2024.<br>
 **Kai Tang**, Fei Xu, Xuehong Chen, Qi Dong, Yuheng Yuan, Jin Chen<sup>†</sup><br>
 [[Paper]](https://doi.org/10.1016/j.isprsjprs.2024.04.013) [[Code]](https://github.com/tangkai-RS/ClearSCD)
