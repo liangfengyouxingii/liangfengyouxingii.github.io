@@ -37,7 +37,7 @@ If you are interested in my work or have any opportunities that align with my re
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSE 2026</div><img src='images/RSE_AnytimeFormer.png' alt="AnytimeFormer" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**AnytimeFormer: Fusing irregular and asynchronous SAR-optical time series to reconstruct reflectance at any given time.**<br> 
+**AnytimeFormer: Fusing irregular and asynchronous SAR-optical time series to reconstruct reflectance at any given time.**<br>
 *Remote Sensing of Environment*, 2026.<br>
 **Kai Tang**, Xuehong Chen, Tianyu Liu, Anqi Li, Yao Tang, Peng Yang, Jin Chen<sup>†</sup><br>
 [[Paper]](https://doi.org/10.1016/j.rse.2025.115120) [[Code]](https://github.com/tangkai-RS/AnytimeFormer)
@@ -47,17 +47,17 @@ If you are interested in my work or have any opportunities that align with my re
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JRS 2026</div><img src='images/JRS_Shield.png' alt="JRS change/anomaly" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Unsupervised detection of disaster-affected areas by combining the strengths of change detection and anomaly detection: target for on-orbit application.**<br>  
+**Unsupervised detection of disaster-affected areas by combining the strengths of change detection and anomaly detection: target for on-orbit application.**<br>
 *Journal of Remote Sensing*, 2026.<br>
 **Kai Tang**, Qiao Wang, Fei Xu, Zhuoning Gu, Xuehong Chen, Jin Chen<sup>†</sup><br>
-- It will be tested on the Mouduo (木铎)-1A satellite platform of Beijing Normal University..
+- **<font color=DarkRed>It will be tested on the 木铎-1A satellite platform of Beijing Normal University.</font>**<br>
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAG 2026</div><img src='images/JAG_DreamCD.png' alt="DreamCD" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**DreamCD: A change-label-free framework for change detection via a weakly conditional semantic diffusion model in optical VHR imagery.**<br>  
+**DreamCD: A change-label-free framework for change detection via a weakly conditional semantic diffusion model in optical VHR imagery.**<br>
 *International Journal of Applied Earth Observation and Geoinformation*, 2026.<br>
 Kai Tang, Zhuo Zheng, Hongruixuan Chen, Xuehong Chen, Jin Chen<sup>†</sup><br>
 [[Paper]](https://github.com/tangkai-RS/DreamCD) [[Code]](https://github.com/tangkai-RS/DreamCD) [[Dataset]](https://doi.org/10.5281/zenodo.17765755)
@@ -67,7 +67,7 @@ Kai Tang, Zhuo Zheng, Hongruixuan Chen, Xuehong Chen, Jin Chen<sup>†</sup><br>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/ChangeAnywhere_Arxiv.png' alt="DreamCD" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**ChangeAnywhere: Sample Generation for Remote Sensing Change Detection via Semantic Latent Diffusion Model.**<br>  
+**ChangeAnywhere: Sample Generation for Remote Sensing Change Detection via Semantic Latent Diffusion Model.**<br>
 *arXiv*, 2024.<br>
 Kai Tang, Jin Chen<sup>†</sup><br>
 [[Paper]](https://arxiv.org/abs/2404.08892) [[Code]](https://github.com/tangkai-RS/ChangeAnywhere) [[Dataset]](https://huggingface.co/tangkaii)
@@ -85,6 +85,7 @@ Kai Tang, Jin Chen<sup>†</sup><br>
 </div>
 </div>
 
+
 **Spatial downscaling of land surface temperature over heterogeneous regions using random forest regression considering spatial features.**  
 *Remote Sensing*, 2021.  
 **Kai Tang**, Hongchun Zhu<sup>†</sup>, Ping Ni
@@ -96,6 +97,7 @@ Kai Tang, Jin Chen<sup>†</sup><br>
 **Destriping and Evaluating FY-3D MERSI-2 Data with the Moment Matching Method Based on Synchronous Reference Image.**  
 *Journal of Applied Remote Sensing*, 2020.  
 **Kai Tang**, Hongchun Zhu<sup>†</sup>, Yu Cheng, Lin Zhang
+
 
 # 📖 Educations
 - 2022.09–2026.06 (Ph.D.): Beijing Normal University, Cartography & GIS.
