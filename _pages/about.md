@@ -87,8 +87,8 @@ If you are interested in my work or have any opportunities that align with my re
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSTAR 2021</div><img src='images/JSTAR_LST.png' alt="LST" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Retrieving land surface temperature from Chinese FY-3D MERSI-2 data using an operational split window algorithm.**<br>  
-*IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2021.<br>  
+**Retrieving land surface temperature from Chinese FY-3D MERSI-2 data using an operational split window algorithm.**<br>
+*IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2021.<br>
 **Kai Tang**, Hongchun Zhu<sup>†</sup>, Ping Ni, Ruibo Li, Cheng Fan<br>
 [[Paper]](https://ieeexplore.ieee.org/abstract/document/9416886)
 </div>
