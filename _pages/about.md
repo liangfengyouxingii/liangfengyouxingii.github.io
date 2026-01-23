@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am **Kai Tang (唐 凯)**, a Ph.D. candidate at Beijing Normal University (2022.9–), advised by Prof. [Jin Chen (陈晋)](https://geot.bnu.edu.cn/Public/htm/news/5/176.html). 
+Hi! I am **Kai Tang (唐 凯)**, a Ph.D. candidate at Beijing Normal University (2022.9–), advised by Prof. [Jin Chen (陈 晋)](https://geot.bnu.edu.cn/Public/htm/news/5/176.html). 
 
 Research interests:
 - Remote sensing change detection: high-resolution single/bi-temporal and medium-resolution time-series change
@@ -27,12 +27,12 @@ Research interests:
 If you are interested in my work or have any opportunities that align with my research interests, feel free to reach out! I am always open to new collaborations (tangkai@mail.bnu.edu.cn).
 
 
-# 🔥 News
+# News
 - **2026.01** DreamCD has been accepted by JAG [[Dataset & Code]](https://github.com/tangkai-RS/DreamCD).
 - **2026.01** Shield has been accepted by JRS [[Code]](https://github.com/tangkai-RS/Shield).
 
 
-# 📝 Selected publications 
+# Selected publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSE 2026</div><img src='images/RSE_AnytimeFormer.png' alt="AnytimeFormer" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -59,21 +59,10 @@ If you are interested in my work or have any opportunities that align with my re
 
 **DreamCD: A change-label-free framework for change detection via a weakly conditional semantic diffusion model in optical VHR imagery.**<br>
 *International Journal of Applied Earth Observation and Geoinformation*, 2026.<br>
-Kai Tang, Zhuo Zheng, Hongruixuan Chen, Xuehong Chen, Jin Chen<sup>†</sup><br>
+**Kai Tang**, Zhuo Zheng, Hongruixuan Chen, Xuehong Chen, Jin Chen<sup>†</sup><br>
 [[Paper]](https://github.com/tangkai-RS/DreamCD) [[Code]](https://github.com/tangkai-RS/DreamCD) [[Dataset]](https://doi.org/10.5281/zenodo.17765755)
 </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/ChangeAnywhere_Arxiv.png' alt="DreamCD" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**ChangeAnywhere: Sample Generation for Remote Sensing Change Detection via Semantic Latent Diffusion Model.**<br>
-*arXiv*, 2024.<br>
-Kai Tang, Jin Chen<sup>†</sup><br>
-[[Paper]](https://arxiv.org/abs/2404.08892) [[Code]](https://github.com/tangkai-RS/ChangeAnywhere) [[Dataset]](https://huggingface.co/tangkaii)
-</div>
-</div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS P&RS 2024</div><img src='images/ISPRS P&RS_ClearSCD.png' alt="ClearSCD" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -85,26 +74,42 @@ Kai Tang, Jin Chen<sup>†</sup><br>
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/ChangeAnywhere_Arxiv.png' alt="DreamCD" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**ChangeAnywhere: Sample Generation for Remote Sensing Change Detection via Semantic Latent Diffusion Model.**<br>
+*arXiv*, 2024.<br>
+**Kai Tang**, Jin Chen<sup>†</sup><br>
+[[Paper]](https://arxiv.org/abs/2404.08892) [[Code]](https://github.com/tangkai-RS/ChangeAnywhere) [[Dataset]](https://huggingface.co/tangkaii)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSTAR 2024</div><img src='images/JSTAR_LST.png' alt="LST" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Retrieving land surface temperature from Chinese FY-3D MERSI-2 data using an operational split window algorithm.**<br>  
+*IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2021.<br>  
+**Kai Tang**, Hongchun Zhu<sup>†</sup>, Ping Ni, Ruibo Li, Cheng Fan<br>
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/9416886)
+</div>
+</div>
+
 
 **Spatial downscaling of land surface temperature over heterogeneous regions using random forest regression considering spatial features.**  
 *Remote Sensing*, 2021.  
 **Kai Tang**, Hongchun Zhu<sup>†</sup>, Ping Ni
-
-**Retrieving land surface temperature from Chinese FY-3D MERSI-2 data using an operational split window algorithm.**  
-*IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2021.  
-**Kai Tang**, Hongchun Zhu<sup>†</sup>, Ping Ni, Ruibo Li, Cheng Fan
 
 **Destriping and Evaluating FY-3D MERSI-2 Data with the Moment Matching Method Based on Synchronous Reference Image.**  
 *Journal of Applied Remote Sensing*, 2020.  
 **Kai Tang**, Hongchun Zhu<sup>†</sup>, Yu Cheng, Lin Zhang
 
 
-# 📖 Educations
+# Educations
 - 2022.09–2026.06 (Ph.D.): Beijing Normal University, Cartography & GIS.
 - 2019.09–2022.06 (M.Eng.): Shandong University of Science and Technology, Surveying & Mapping Engineering.
 - 2015.09–2019.06 (B.Eng.): Shandong Agricultural University, Remote Sensing Science & Technology.
 
-# 🎖 Honors and Awards
+# Honors and Awards
 - 2025.01 BNU Academic Innovation Award
 - 2024.09 BNU Graduate First-Class Scholarship
 - 2023.11 BNU Geography Graduate Academic Competition, First Prize
@@ -113,7 +118,7 @@ Kai Tang, Jin Chen<sup>†</sup><br>
 - 2021.09 Outstanding Sci-Tech Innovation Achievement (Shandong University of Science and Technology)
 - 2021.09 Outstanding Graduate Student (Shandong University of Science and Technology)
 
-# 🧑‍💻 Activities and Services
+# Activities and Services
 
 ## Reviewer
 - Remote Sensing of Environment
@@ -122,7 +127,7 @@ Kai Tang, Jin Chen<sup>†</sup><br>
 - Ecosystem Health and Sustainability
 
 
-# 💬 Contact
+# Contact
 - WeChat: tk1362723810
 - Email: tangkai@mail.bnu.edu.cn
 - Email: a1362723810@gmail.com
