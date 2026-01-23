@@ -84,7 +84,7 @@ If you are interested in my work or have any opportunities that align with my re
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSTAR 2024</div><img src='images/JSTAR_LST.png' alt="LST" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSTAR 2021</div><img src='images/JSTAR_LST.png' alt="LST" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Retrieving land surface temperature from Chinese FY-3D MERSI-2 data using an operational split window algorithm.**<br>  
