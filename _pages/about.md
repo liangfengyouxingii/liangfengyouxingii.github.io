@@ -60,7 +60,7 @@ If you are interested in my work or have any opportunities that align with my re
 **DreamCD: A change-label-free framework for change detection via a weakly conditional semantic diffusion model in optical VHR imagery.**<br>
 *International Journal of Applied Earth Observation and Geoinformation*, 2026.<br>
 **Kai Tang**, Zhuo Zheng, Hongruixuan Chen, Xuehong Chen, Jin Chen<sup>†</sup><br>
-[[Paper]](https://github.com/tangkai-RS/DreamCD) [[Code]](https://github.com/tangkai-RS/DreamCD) [[Dataset]](https://doi.org/10.5281/zenodo.17765755)
+[[Paper]](https://doi.org/10.1016/j.jag.2026.105125) [[Code]](https://github.com/tangkai-RS/DreamCD) [[Dataset]](https://doi.org/10.5281/zenodo.17765755)
 </div>
 </div>
 
